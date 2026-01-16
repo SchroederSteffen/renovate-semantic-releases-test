@@ -1,5 +1,8 @@
 {
   "private": true,
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
   "engines": {
     "node": "22"
   },
