@@ -1,5 +1,9 @@
 {
   "name": "renovate-semantic-releases-test",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SchroederSteffen/renovate-semantic-releases-test.git"
+  },
   "scripts": {
     "semantic-release": "semantic-release"
   },
