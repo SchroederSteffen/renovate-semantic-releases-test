@@ -10,9 +10,7 @@
       "matchDepTypes": ["dependencies"],
       "matchUpdateTypes": ["major"],
       "semanticCommitType": "feat",
-      "prBodyNotes": [
-        "BREAKING CHANGE: {{commitMessageAction}} {{commitMessageTopic}} {{commitMessageExtra}} {{commitMessageSuffix}}"
-      ]
+      "prBodyNotes": ["BREAKING CHANGE: support {{depName}} {{prettyNewMajor}}"]
     }
   ]
 }
