@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "name": "renovate-semantic-releases-test",
   "scripts": {
     "semantic-release": "semantic-release"
   },
