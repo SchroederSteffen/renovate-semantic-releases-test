@@ -11,7 +11,7 @@
       "matchUpdateTypes": ["major"],
       "semanticCommitType": "feat",
       "prBodyNotes": [
-        "BREAKING CHANGE: {{{commitMessageAction}}} {{{commitMessageTopic}}} {{{commitMessageExtra}}} {{{commitMessageSuffix}}}"
+        "BREAKING CHANGE: {{commitMessageAction}} {{commitMessageTopic}} {{commitMessageExtra}} {{commitMessageSuffix}}"
       ]
     }
   ]
