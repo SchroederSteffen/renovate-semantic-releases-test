@@ -11,7 +11,7 @@
     "node": "22"
   },
   "dependencies": {
-    "rimraf": "6.1.2"
+    "rimraf": "6.1.3"
   },
   "devDependencies": {
     "semantic-release": "25.0.2"
